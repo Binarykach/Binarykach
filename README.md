@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any projects written in Java
 - 📫 How to reach me: gitiBleakCatch.96 - Signal.
-- 😄 Pronouns: HE HUMAN.
-- ⚡ Fun fact: ...
+
 
 <!---
 Binarykach/Binarykach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
